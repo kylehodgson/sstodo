@@ -183,4 +183,5 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 # NuGet
-pacakges
+pacakges/
+.nuget/
